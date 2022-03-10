@@ -1,0 +1,10 @@
+.question-container {
+    margin-bottom: 20px;
+}
+
+.answer-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    justify-content: space-around;
+}
